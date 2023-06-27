@@ -4,12 +4,17 @@ Mid Level QA Engineer
 - About me
 - CV
 - Skills
-- Tools
-- Courses
+- Soft Skills
+- Testing Tools and Technologies
+- Bug Reporting and Tracking
+- Test Documentation  test plans, test cases, and test scripts you have developed
+- Automation Testing - Describe the automation frameworks you have used and the types of tests you automated (e.g., UI testing, API testing, mobile testing).
+- Projects  
 - Personal Projects
 - Company Projects
-- Test cases and work in TestRail
-- Bug reports and work in Jira
+- Contact Information
+- Personal Projects and Contributions
+- Certifications and Training
 - Books I have read
 
 
